@@ -1,0 +1,109 @@
+2023-12-13 12:38:28,581 - INFO - Received message: {"date": "2023-12-12 13:24:20.586490", "user": "('192.168.53.196', 51246)", "payload": "bruvvvvv"}
+2023-12-13 12:38:28,581 - INFO - Received message: {"date": "2023-12-12 13:25:33.982458", "user": "('192.168.53.196', 35268)", "payload": "a;kdaksl;d"}
+2023-12-13 12:38:28,582 - INFO - Received message: {"date": "2023-12-13 12:37:00.491799", "user": "('192.168.53.196', 39554)", "payload": "bruvvvv"}
+2023-12-13 12:38:46,862 - INFO - Received message: {"date": "2023-12-13 12:38:46.855737", "user": "('192.168.53.196', 44928)", "payload": "nope"}
+2023-12-13 12:40:55,697 - INFO - Received message: {"date": "2023-12-13 12:40:55.688403", "user": "('192.168.53.196', 44928)", "payload": "leyy"}
+2023-12-13 12:46:05,817 - INFO - Received message: {"date": "2023-12-13 12:46:05.808501", "user": "('192.168.53.196', 44928)", "payload": "leyyyy"}
+2023-12-13 12:47:10,421 - INFO - Received message: {"date": "2023-12-13 12:46:36.084481", "user": "('192.168.53.196', 44928)", "payload": "bruuvvvv"}
+2023-12-13 12:47:10,421 - INFO - Received message: {"date": "2023-12-13 12:46:46.424484", "user": "('192.168.53.196', 44928)", "payload": "asdasda"}
+2023-12-13 12:58:07,105 - INFO - Received message: {"date": "2023-12-13 12:58:06.536467", "user": "('192.168.53.196', 44834)", "payload": "loudessss"}
+2023-12-13 13:06:04,436 - INFO - Received message: {"date": "2023-12-13 12:58:55.520464", "user": "('192.168.53.196', 44834)", "payload": "louderrrrrrr"}
+2023-12-13 14:42:41,325 - INFO - Received message: {"date": "2023-12-13 14:38:14.631989", "user": "('192.168.53.196', 37188)", "payload": "yoloooooo"}
+2023-12-13 14:43:27,489 - INFO - Received message: {"date": "2023-12-13 14:38:14.631989", "user": "('192.168.53.196', 37188)", "payload": "yoloooooo"}
+2023-12-13 14:44:26,402 - INFO - Received message: {"date": "2023-12-13 14:38:14.631989", "user": "('192.168.53.196', 37188)", "payload": "yoloooooo"}
+2023-12-13 14:45:21,505 - INFO - Received message: {"date": "2023-12-13 14:38:14.631989", "user": "('192.168.53.196', 37188)", "payload": "yoloooooo"}
+2023-12-13 14:47:14,228 - INFO - Received message: {"date": "2023-12-13 14:47:14.220484", "user": "('192.168.53.196', 37188)", "payload": "Tushar"}
+2023-12-13 14:47:58,924 - INFO - Received message: {"date": "2023-12-13 14:47:58.916427", "user": "('192.168.53.196', 37188)", "payload": "dsjflksdjflskdnflskd nlksdjlk lksdlkfjlskdj ljflskdjlkfjlsdj lfsldkjjljsdf lksdjlkfj slkjklfj lskjlfjkslkd jflkjsdlkjf lksdj lkfjlskdj flksjdlk fjlskdjf lksdjlkfjlskd jfkljsdlkfjslkdjflk sjdlk jfslkd jfklsdklsdjfklsd jlk fjsdlkjf lksd jfklsdjlkf jsdlkfjlsdkjfksdjli fjsdklfj lks"}
+2023-12-13 15:11:12,828 - INFO - Received message: {"date": "2023-12-13 15:11:12.820467", "user": "('192.168.53.196', 37188)", "payload": "adfasdasdaasdasd"}
+2023-12-13 15:11:25,096 - INFO - Received message: {"date": "2023-12-13 15:11:25.088478", "user": "('192.168.53.196', 37188)", "payload": "lalsdasdasdas"}
+2023-12-13 15:11:25,799 - INFO - Received message: {"date": "2023-12-13 15:11:25.792394", "user": "('192.168.53.196', 37188)", "payload": "dasdasdas"}
+2023-12-13 15:11:26,196 - INFO - Received message: {"date": "2023-12-13 15:11:26.188426", "user": "('192.168.53.196', 37188)", "payload": "dasdas"}
+2023-12-13 15:11:26,430 - INFO - Received message: {"date": "2023-12-13 15:11:26.424347", "user": "('192.168.53.196', 37188)", "payload": "das"}
+2023-12-13 15:11:26,633 - INFO - Received message: {"date": "2023-12-13 15:11:26.624387", "user": "('192.168.53.196', 37188)", "payload": "da"}
+2023-12-13 15:11:27,467 - INFO - Received message: {"date": "2023-12-13 15:11:27.460449", "user": "('192.168.53.196', 37188)", "payload": "sdasdasdasd"}
+2023-12-13 15:11:27,659 - INFO - Received message: {"date": "2023-12-13 15:11:27.652420", "user": "('192.168.53.196', 37188)", "payload": "asd"}
+2023-12-13 15:11:27,807 - INFO - Received message: {"date": "2023-12-13 15:11:27.800518", "user": "('192.168.53.196', 37188)", "payload": "as"}
+2023-12-13 15:11:27,967 - INFO - Received message: {"date": "2023-12-13 15:11:27.960481", "user": "('192.168.53.196', 37188)", "payload": "das"}
+2023-12-13 15:11:28,104 - INFO - Received message: {"date": "2023-12-13 15:11:28.096386", "user": "('192.168.53.196', 37188)", "payload": "d"}
+2023-12-13 15:11:28,256 - INFO - Received message: {"date": "2023-12-13 15:11:28.216462", "user": "('192.168.53.196', 37188)", "payload": "a"}
+2023-12-13 15:11:28,335 - INFO - Received message: {"date": "2023-12-13 15:11:28.328717", "user": "('192.168.53.196', 37188)", "payload": "sd"}
+2023-12-13 15:11:28,474 - INFO - Received message: {"date": "2023-12-13 15:11:28.468438", "user": "('192.168.53.196', 37188)", "payload": "as"}
+2023-12-13 15:11:29,560 - INFO - Received message: {"date": "2023-12-13 15:11:29.552477", "user": "('192.168.53.196', 37188)", "payload": "dasdasdasdasdas"}
+2023-12-13 15:11:29,771 - INFO - Received message: {"date": "2023-12-13 15:11:29.764525", "user": "('192.168.53.196', 37188)", "payload": "das"}
+2023-12-13 15:11:29,923 - INFO - Received message: {"date": "2023-12-13 15:11:29.916430", "user": "('192.168.53.196', 37188)", "payload": "das"}
+2023-12-13 15:11:31,540 - INFO - Received message: {"date": "2023-12-13 15:11:31.532350", "user": "('192.168.53.196', 37188)", "payload": "da"}
+2023-12-13 15:15:35,599 - INFO - Received message: {"date": "2023-12-13 15:15:35.592470", "user": "('192.168.53.196', 37188)", "payload": "adasd"}
+2023-12-13 15:15:35,975 - INFO - Received message: {"date": "2023-12-13 15:15:35.968560", "user": "('192.168.53.196', 37188)", "payload": "asdas"}
+2023-12-13 15:15:36,184 - INFO - Received message: {"date": "2023-12-13 15:15:36.176462", "user": "('192.168.53.196', 37188)", "payload": "das"}
+2023-12-13 15:15:36,324 - INFO - Received message: {"date": "2023-12-13 15:15:36.316391", "user": "('192.168.53.196', 37188)", "payload": "d"}
+2023-12-13 15:15:36,476 - INFO - Received message: {"date": "2023-12-13 15:15:36.468426", "user": "('192.168.53.196', 37188)", "payload": "asd"}
+2023-12-13 15:15:36,620 - INFO - Received message: {"date": "2023-12-13 15:15:36.612437", "user": "('192.168.53.196', 37188)", "payload": "as"}
+2023-12-13 15:15:36,759 - INFO - Received message: {"date": "2023-12-13 15:15:36.752573", "user": "('192.168.53.196', 37188)", "payload": "d"}
+2023-12-13 15:15:36,847 - INFO - Received message: {"date": "2023-12-13 15:15:36.840464", "user": "('192.168.53.196', 37188)", "payload": "a"}
+2023-12-13 15:15:36,971 - INFO - Received message: {"date": "2023-12-13 15:15:36.964409", "user": "('192.168.53.196', 37188)", "payload": "d"}
+2023-12-13 15:15:37,106 - INFO - Received message: {"date": "2023-12-13 15:15:37.100459", "user": "('192.168.53.196', 37188)", "payload": "a"}
+2023-12-13 15:15:37,247 - INFO - Received message: {"date": "2023-12-13 15:15:37.240450", "user": "('192.168.53.196', 37188)", "payload": "sd"}
+2023-12-13 15:15:37,364 - INFO - Received message: {"date": "2023-12-13 15:15:37.356409", "user": "('192.168.53.196', 37188)", "payload": "as"}
+2023-12-13 15:15:37,503 - INFO - Received message: {"date": "2023-12-13 15:15:37.496458", "user": "('192.168.53.196', 37188)", "payload": "d"}
+2023-12-13 15:15:37,644 - INFO - Received message: {"date": "2023-12-13 15:15:37.636444", "user": "('192.168.53.196', 37188)", "payload": "as"}
+2023-12-13 15:15:37,740 - INFO - Received message: {"date": "2023-12-13 15:15:37.732448", "user": "('192.168.53.196', 37188)", "payload": "d"}
+2023-12-13 15:15:37,871 - INFO - Received message: {"date": "2023-12-13 15:15:37.864408", "user": "('192.168.53.196', 37188)", "payload": "as"}
+2023-12-13 15:15:38,015 - INFO - Received message: {"date": "2023-12-13 15:15:38.008460", "user": "('192.168.53.196', 37188)", "payload": "das"}
+2023-12-13 15:15:38,154 - INFO - Received message: {"date": "2023-12-13 15:15:38.148576", "user": "('192.168.53.196', 37188)", "payload": "d"}
+2023-12-13 15:15:38,279 - INFO - Received message: {"date": "2023-12-13 15:15:38.272596", "user": "('192.168.53.196', 37188)", "payload": "as"}
+2023-12-13 15:15:38,412 - INFO - Received message: {"date": "2023-12-13 15:15:38.404460", "user": "('192.168.53.196', 37188)", "payload": "d"}
+2023-12-13 15:15:39,131 - INFO - Received message: {"date": "2023-12-13 15:15:39.124444", "user": "('192.168.53.196', 37188)", "payload": "asfafas"}
+2023-12-13 15:15:39,262 - INFO - Received message: {"date": "2023-12-13 15:15:39.256450", "user": "('192.168.53.196', 37188)", "payload": "fa"}
+2023-12-13 15:15:39,362 - INFO - Received message: {"date": "2023-12-13 15:15:39.356451", "user": "('192.168.53.196', 37188)", "payload": "sf"}
+2023-12-13 15:15:39,486 - INFO - Received message: {"date": "2023-12-13 15:15:39.480400", "user": "('192.168.53.196', 37188)", "payload": "as"}
+2023-12-13 15:15:39,647 - INFO - Received message: {"date": "2023-12-13 15:15:39.640531", "user": "('192.168.53.196', 37188)", "payload": "f"}
+2023-12-13 15:15:39,787 - INFO - Received message: {"date": "2023-12-13 15:15:39.780397", "user": "('192.168.53.196', 37188)", "payload": "as"}
+2023-12-13 15:15:39,918 - INFO - Received message: {"date": "2023-12-13 15:15:39.912361", "user": "('192.168.53.196', 37188)", "payload": "fas"}
+2023-12-13 15:15:41,251 - INFO - Received message: {"date": "2023-12-13 15:15:41.244391", "user": "('192.168.53.196', 37188)", "payload": "fasfasfasfasfasf"}
+2023-12-13 15:34:22,535 - INFO - Received message: {"date": "2023-12-13 15:34:22.528434", "user": "('192.168.53.196', 37188)", "payload": "dassada"}
+2023-12-13 15:34:22,775 - INFO - Received message: {"date": "2023-12-13 15:34:22.768427", "user": "('192.168.53.196', 37188)", "payload": "sdas"}
+2023-12-13 15:34:23,011 - INFO - Received message: {"date": "2023-12-13 15:34:23.004555", "user": "('192.168.53.196', 37188)", "payload": "das"}
+2023-12-13 15:34:23,239 - INFO - Received message: {"date": "2023-12-13 15:34:23.232553", "user": "('192.168.53.196', 37188)", "payload": "das"}
+2023-12-13 15:34:23,435 - INFO - Received message: {"date": "2023-12-13 15:34:23.428617", "user": "('192.168.53.196', 37188)", "payload": "da"}
+2023-12-13 15:34:23,630 - INFO - Received message: {"date": "2023-12-13 15:34:23.624340", "user": "('192.168.53.196', 37188)", "payload": "sd"}
+2023-12-13 15:34:24,431 - INFO - Received message: {"date": "2023-12-13 15:34:24.424470", "user": "('192.168.53.196', 37188)", "payload": "asdasdasdas"}
+2023-12-13 15:34:25,215 - INFO - Received message: {"date": "2023-12-13 15:34:25.208420", "user": "('192.168.53.196', 37188)", "payload": "dasdasdasda"}
+2023-12-13 15:34:25,587 - INFO - Received message: {"date": "2023-12-13 15:34:25.580465", "user": "('192.168.53.196', 37188)", "payload": "sdasd"}
+2023-12-13 15:34:25,763 - INFO - Received message: {"date": "2023-12-13 15:34:25.756438", "user": "('192.168.53.196', 37188)", "payload": "asd"}
+2023-12-13 15:34:26,565 - INFO - Received message: {"date": "2023-12-13 15:34:26.556555", "user": "('192.168.53.196', 37188)", "payload": "asdasdasda"}
+2023-12-13 15:34:27,214 - INFO - Received message: {"date": "2023-12-13 15:34:27.208352", "user": "('192.168.53.196', 37188)", "payload": "sdasdasd"}
+2023-12-13 15:34:27,791 - INFO - Received message: {"date": "2023-12-13 15:34:27.784506", "user": "('192.168.53.196', 37188)", "payload": "asdasdas"}
+2023-12-13 15:34:28,551 - INFO - Received message: {"date": "2023-12-13 15:34:28.544447", "user": "('192.168.53.196', 37188)", "payload": "dasdasdasd"}
+2023-12-13 15:34:29,320 - INFO - Received message: {"date": "2023-12-13 15:34:29.312500", "user": "('192.168.53.196', 37188)", "payload": "asdasdasd"}
+2023-12-13 15:34:29,499 - INFO - Received message: {"date": "2023-12-13 15:34:29.492554", "user": "('192.168.53.196', 37188)", "payload": "asd"}
+2023-12-13 15:34:29,650 - INFO - Received message: {"date": "2023-12-13 15:34:29.644457", "user": "('192.168.53.196', 37188)", "payload": "asd"}
+2023-12-13 15:34:31,478 - INFO - Received message: {"date": "2023-12-13 15:34:31.472392", "user": "('192.168.53.196', 37188)", "payload": "as"}
+2023-12-13 15:35:20,297 - INFO - Received message: {"date": "2023-12-13 15:34:59.240443", "user": "('192.168.53.196', 37188)", "payload": "asdasd"}
+2023-12-13 15:35:20,298 - INFO - Received message: {"date": "2023-12-13 15:34:59.448411", "user": "('192.168.53.196', 37188)", "payload": "asd"}
+2023-12-13 15:35:20,298 - INFO - Received message: {"date": "2023-12-13 15:34:59.652469", "user": "('192.168.53.196', 37188)", "payload": "asd"}
+2023-12-13 15:35:20,299 - INFO - Received message: {"date": "2023-12-13 15:35:00.424417", "user": "('192.168.53.196', 37188)", "payload": "asdasdasdas"}
+2023-12-13 15:35:20,300 - INFO - Received message: {"date": "2023-12-13 15:35:00.836478", "user": "('192.168.53.196', 37188)", "payload": "d asd"}
+2023-12-13 15:35:20,300 - INFO - Received message: {"date": "2023-12-13 15:35:00.988453", "user": "('192.168.53.196', 37188)", "payload": "aS"}
+2023-12-13 15:35:20,301 - INFO - Received message: {"date": "2023-12-13 15:35:01.168434", "user": "('192.168.53.196', 37188)", "payload": "D"}
+2023-12-13 15:35:20,301 - INFO - Received message: {"date": "2023-12-13 15:35:01.356475", "user": "('192.168.53.196', 37188)", "payload": " A"}
+2023-12-13 15:35:20,302 - INFO - Received message: {"date": "2023-12-13 15:35:01.580444", "user": "('192.168.53.196', 37188)", "payload": "WSd "}
+2023-12-13 15:35:20,303 - INFO - Received message: {"date": "2023-12-13 15:35:01.764450", "user": "('192.168.53.196', 37188)", "payload": "dqwd"}
+2023-12-13 15:35:20,303 - INFO - Received message: {"date": "2023-12-13 15:35:02.457244", "user": "('192.168.53.196', 37188)", "payload": "ASDASD AS"}
+2023-12-13 15:35:20,304 - INFO - Received message: {"date": "2023-12-13 15:35:03.100436", "user": "('192.168.53.196', 37188)", "payload": "D ASd ASD AS"}
+2023-12-13 15:35:20,305 - INFO - Received message: {"date": "2023-12-13 15:35:03.476548", "user": "('192.168.53.196', 37188)", "payload": "DASD "}
+2023-12-13 15:35:20,305 - INFO - Received message: {"date": "2023-12-13 15:35:03.788569", "user": "('192.168.53.196', 37188)", "payload": "ASD AS"}
+2023-12-13 15:35:20,306 - INFO - Received message: {"date": "2023-12-13 15:35:03.972459", "user": "('192.168.53.196', 37188)", "payload": "D "}
+2023-12-13 15:35:20,307 - INFO - Received message: {"date": "2023-12-13 15:35:04.136404", "user": "('192.168.53.196', 37188)", "payload": "aS"}
+2023-12-13 15:35:20,308 - INFO - Received message: {"date": "2023-12-13 15:35:04.752373", "user": "('192.168.53.196', 37188)", "payload": "D aSASD AS"}
+2023-12-13 15:35:20,309 - INFO - Received message: {"date": "2023-12-13 15:35:05.064443", "user": "('192.168.53.196', 37188)", "payload": "D ASD"}
+2023-12-13 15:35:20,310 - INFO - Received message: {"date": "2023-12-13 15:35:06.108369", "user": "('192.168.53.196', 37188)", "payload": " as DFAdas D"}
+2023-12-13 15:38:02,033 - INFO - Received message: {"date": "2023-12-13 15:37:55.212479", "user": "('192.168.53.196', 37188)", "payload": "yolo"}
+2023-12-13 15:48:50,265 - INFO - Received message: {"date": "2023-12-13 15:48:28.624452", "user": "('192.168.53.196', 37188)", "payload": "adasdas"}
+2023-12-13 15:48:50,266 - INFO - Received message: {"date": "2023-12-13 15:48:29.112402", "user": "('192.168.53.196', 37188)", "payload": "asdasd"}
+2023-12-13 15:48:50,266 - INFO - Received message: {"date": "2023-12-13 15:48:29.876372", "user": "('192.168.53.196', 37188)", "payload": "asdasdasdas"}
+2023-12-13 15:48:50,267 - INFO - Received message: {"date": "2023-12-13 15:48:30.536476", "user": "('192.168.53.196', 37188)", "payload": "asdasdas"}
+2023-12-13 15:48:50,267 - INFO - Received message: {"date": "2023-12-13 15:48:31.096644", "user": "('192.168.53.196', 37188)", "payload": "dasdasdas"}
+2023-12-13 15:48:50,268 - INFO - Received message: {"date": "2023-12-13 15:48:31.440522", "user": "('192.168.53.196', 37188)", "payload": "dasd"}
+2023-12-13 15:48:50,268 - INFO - Received message: {"date": "2023-12-13 15:48:31.596439", "user": "('192.168.53.196', 37188)", "payload": "as"}
+2023-12-13 15:48:50,269 - INFO - Received message: {"date": "2023-12-13 15:48:32.772347", "user": "('192.168.53.196', 37188)", "payload": "dasda"}
+2023-12-13 15:49:40,272 - INFO - Received message: {"date": "2023-12-13 15:49:30.272403", "user": "('192.168.53.196', 37188)", "payload": "yolo"}
